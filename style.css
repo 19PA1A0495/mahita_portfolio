@@ -1,0 +1,37 @@
+.lead{
+	text-align: center;
+}
+
+.banner-title {
+	font-size: 4rem !important;
+	font-family: "Verdana", sans-serif;
+	font-weight: 700;
+	color: darkturquoise;
+
+}
+.card-title{
+	font-weight: 700;
+}
+
+.nav-heading,
+.navbar-brand {
+	color: purple;
+}
+
+.card {
+	background-color: lavender !important;
+}
+
+.Github{
+  h4{text-align: center}
+}
+
+@media (min-width: 1200px) {
+	#contact .row {
+		margin-top: -4rem !important;
+	}
+}
+
+.nav-link:active {
+	color: #e75d48 !important;
+}
